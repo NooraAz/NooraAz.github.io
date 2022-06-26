@@ -37,6 +37,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nooraaz"
+
+author:
+  name     : "Noora Azadvari"
+  #avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "I'm a Ph.D. candidate in Bioenginnering at the University of Oregon. You can read more about me in about ans resume pages."
+  location : "Eugene, OR"
     
 # Exclude from processing.
 # The following items will not be processed, by default.
