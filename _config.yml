@@ -101,7 +101,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Oregon, USA"
-  email            : 
+  email            : "" 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -283,4 +283,3 @@ defaults:
       comments: false
       share: true
       related: true
-      show_date: true
