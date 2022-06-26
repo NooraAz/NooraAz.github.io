@@ -29,6 +29,15 @@ defaults:
     values:
       show_date: true
 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fad fa-fw fa-twitter-square"
+      url: "https://twitter.com/noora_avi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nooraaz"
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
