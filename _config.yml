@@ -21,9 +21,7 @@
 title: Down the Road
 email: e.azadvari98@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I used to keep lots of notebooks for each category of my mind. Now I like to have them here all together, a constantly changing  portrait of me, down the life roads. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://NooraAz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: noora_avi
