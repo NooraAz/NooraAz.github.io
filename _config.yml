@@ -43,6 +43,12 @@ author:
   #avatar   : "/assets/images/bio-photo.jpg"
   bio      : "I'm a Ph.D. candidate in Bioenginnering at the University of Oregon. You can read more about me in about ans resume pages."
   location : "Eugene, OR"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9C8RXW0777"
+    anonymize_ip: false # default
     
 # Exclude from processing.
 # The following items will not be processed, by default.
