@@ -11,7 +11,7 @@ I love a mixture of design, computation, and biology in my work, and that's what
 ### Hobbies: 
 In my free time, I'd like to read books, take photos, watch documantaries, and write short stories or poems. 
 
-Here is a link to my goodreads account: ![Profile](https://www.goodreads.com/user/show/58429712-noora)
+Here is a link to my goodreads account: [Profile](https://www.goodreads.com/user/show/58429712-noora)
 
-I put my best photos on unsplash : ![profile](https://unsplash.com/@nooraaz)
+I put my best photos on unsplash : [profile](https://unsplash.com/@nooraaz)
 
