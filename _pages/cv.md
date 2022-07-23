@@ -4,7 +4,7 @@ permalink: /CV/
 
 # Skills:
 
-|level|skills|
+|level|skill name|
 |-----|------|
 |Worked with and know well|Python (pandas, numpy, matplotlib, itertools, random)|
 ||Linux shell script|
