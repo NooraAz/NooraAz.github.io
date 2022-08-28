@@ -19,14 +19,14 @@ I have three projects in hand that evolve around cyclic peptides:
 
 A more detailed information is available on [Projects](https://nooraaz.github.io/Projects/) page.
 
-# Education
+### Education
 
 |Start|End|Degree|School|Score|Notes|
 |-----|---|------|------|-----|-----|
 |2021|Present|Doctrate|University of Oregon|3.8/4|Joint program with Oregon State University, Phil and Penny Knight Campus|
 |2017|2021   |BSs.    |University of Tehran|16.38/20|Direct Ph.D program|
 
-# Skills
+### Skills
 
 |level|skill name|
 |-----|------|
