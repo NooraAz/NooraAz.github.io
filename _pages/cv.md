@@ -8,7 +8,7 @@ I'm a second
 |start|End|Degree|School|Score|Notes|
 |-----|---|------|------|-----|-----|
 |2021|2026|Doctrate|University of Oregon|3.8/4|Joint program with Oregon State University|
-|||||Phil and Penny Knight Campus|
+||||||Phil and Penny Knight Campus|
 |2017|2021|BSs.|University of Tehran|16.38/20|Direct Ph.D program|
 
 # Skills
