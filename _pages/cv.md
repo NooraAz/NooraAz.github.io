@@ -1,6 +1,6 @@
 ---
 permalink: /CV/
-title: Skills
+title: My Resume
 ---
 
 
