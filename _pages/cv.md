@@ -6,6 +6,7 @@ title: Noora Azadvari
 
 # Education
 |Degree|School|Score|Notes|
+|------|------|-----|-----|
 |Doctrate|University of Oregon|3.8/4|Joint program with Oregon State University|
 |||Phil and Penny Knight Campus|
 |BSs.|University of Tehran|16.38/20|Direct Ph.D program|
