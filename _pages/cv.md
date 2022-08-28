@@ -1,8 +1,8 @@
 ---
 permalink: /CV/
+title: Skills
 ---
 
-# Skills:
 
 |level|skill name|
 |-----|------|
