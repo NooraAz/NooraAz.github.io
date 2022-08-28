@@ -2,16 +2,19 @@
 permalink: /CV/
 title: Noora Azadvari
 ---
-I'm a second
+
+I am a second year Ph.D. candidate 
 
 # Education
-|start|End|Degree|School|Score|Notes|
+
+|Start|End|Degree|School|Score|Notes|
 |-----|---|------|------|-----|-----|
-|2021|2026|Doctrate|University of Oregon|3.8/4|Joint program with Oregon State University|
-||||||Phil and Penny Knight Campus|
-|2017|2021|BSs.|University of Tehran|16.38/20|Direct Ph.D program|
+|2021|Present|Doctrate|University of Oregon|3.8/4|Joint program with Oregon State University|
+|    |       |        |                    |     |Phil and Penny Knight Campus|
+|2017|2021   |BSs.    |University of Tehran|16.38/20|Direct Ph.D program|
 
 # Skills
+
 |level|skill name|
 |-----|------|
 |Worked with and know well|Python (pandas, numpy, matplotlib, itertools, random)|
