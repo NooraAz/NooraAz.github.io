@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /Projects/
 ---
 
 Here are projects.
