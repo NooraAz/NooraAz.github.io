@@ -5,10 +5,7 @@ title: Noora Azadvari
 
 ### Who am I?
 
-I am a second year Ph.D. candidate in the Parisa H. Lab at UO. I like to tell stories with drawing flowcharts and comics (just as they are in my mind). So here is my story:
-
-
-and because I have a background in chemistry (I was studying for chemistry olympiad, though I have no medals), I'm in love with structures, and chemical reactions. I
+I am a second year Ph.D. candidate in the Parisa H. Lab at University of Oregon.
 
 ### What do I do? (briefly)
 
