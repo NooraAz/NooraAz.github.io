@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /_posts/
+    url: /../_posts/
   - title: "Contact"
     url: /contact/
   - title: "CV"
