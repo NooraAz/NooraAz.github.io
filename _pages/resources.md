@@ -1,6 +1,6 @@
 
 ---
-permalink: /Resources/
+permalink: /resources/
 ---
 
 Teaching resources:
