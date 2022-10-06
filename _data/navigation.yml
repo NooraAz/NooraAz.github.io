@@ -1,8 +1,6 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /../_posts/
   - title: "Contact"
     url: /contact/
   - title: "CV"
@@ -10,4 +8,4 @@ main:
   - title: "Projects"
     url: /Projects/
   - title: "Resources"
-    url: /Resources/
+    url: /resources/
