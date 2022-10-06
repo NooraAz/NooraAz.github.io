@@ -2,8 +2,12 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /posts/
+    url: /_posts/
   - title: "Contact"
     url: /contact/
   - title: "CV"
     url: /CV/
+  - title: "Projects"
+    url: /Projects/
+  - title: "Resources"
+    url: /Resources/
