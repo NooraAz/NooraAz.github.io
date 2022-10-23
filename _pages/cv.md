@@ -37,7 +37,7 @@ A more detailed information is available on [Projects](https://nooraaz.github.io
 |On the learning curve|PyRosetta|
 ||Blender| 
 ||Github pages (Jekyll)| 
-||python(seqborn, plotly, beautifulsoup, requests, json)| 
+||python(tweepy, tkinter, seqborn, plotly, beautifulsoup, requests, json)| 
 ||MATLAB| 
 |once known well, haven't touched for years|HTML/CSS| 
 ||PHP/mySQL|
