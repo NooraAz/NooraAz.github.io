@@ -27,7 +27,7 @@ A more detailed information is available on [Projects](https://nooraaz.github.io
 
 |level|skill name|
 |-----|------|
-|Worked with and know well|Python (pandas, numpy, matplotlib, itertools, random)|
+|Worked with and know well|Python (pandas, numpy, matplotlib, itertools, random, string)|
 ||Linux shell script|
 ||Git|
 |a little upper than learning curve|python (networkx)|
@@ -37,7 +37,7 @@ A more detailed information is available on [Projects](https://nooraaz.github.io
 |On the learning curve|PyRosetta|
 ||Blender| 
 ||Github pages (Jekyll)| 
-||python(tweepy, tkinter, seqborn, plotly, beautifulsoup, requests, json)| 
+||python(biopython,sklearn,tweepy, tkinter, seqborn, plotly, beautifulsoup, requests, json)| 
 ||MATLAB| 
 |once known well, haven't touched for years|HTML/CSS| 
 ||PHP/mySQL|
