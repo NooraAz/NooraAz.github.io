@@ -10,3 +10,6 @@ Teaching resources:
 
 Cool Journals:
 1. [Micropublication](https://www.micropublication.org) publishes brief, novel findings, negative and/or reproduced results, and results which may lack a broader scientific narrative.
+
+Tools:
+1. [calculating radius of gyration](http://www.scfbio-iitd.res.in/software/proteomics/rg.jsp)
