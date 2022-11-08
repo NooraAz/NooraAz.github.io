@@ -13,3 +13,6 @@ Cool Journals:
 
 Tools:
 1. [calculating radius of gyration](http://www.scfbio-iitd.res.in/software/proteomics/rg.jsp)
+
+Academic general tools:
+1. [Paper Digest](https://www.paper-digest.com/): AI based paper summarization (only for open access papers)
