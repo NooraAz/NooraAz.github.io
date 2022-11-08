@@ -16,3 +16,6 @@ Tools:
 
 Academic general tools:
 1. [Paper Digest](https://www.paper-digest.com/): AI based paper summarization (only for open access papers)
+
+Recommended online courses:
+1. [Organic spectroscopy - CHE 203](https://www.youtube.com/playlist?list=PLC86CC98DDF0CDDAC) by Professor James S. Nowick at UC IRvine
